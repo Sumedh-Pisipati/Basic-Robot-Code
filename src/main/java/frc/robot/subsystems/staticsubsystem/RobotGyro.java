@@ -1,4 +1,4 @@
-package frc.robot.subsystems.staticsubsystems;
+package frc.robot.subsystems.staticsubsystem;
 
 import edu.wpi.first.math.geometry.Rotation2d;
 import edu.wpi.first.wpilibj.ADIS16470_IMU;
